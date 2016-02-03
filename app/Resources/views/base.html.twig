@@ -29,7 +29,153 @@
     <![endif]-->
 </head>
     <body>
+    {% block header %}
+        <div class="header-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="user-menu">
+                            <ul>
+                                <li><a href="#"><i class="fa fa-user"></i> Login</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="header-right">
+                            <ul class="list-unstyled list-inline">
+                                <li class="dropdown dropdown-small">
+                                    <a data-toggle="dropdown" data-hover="dropdown" class="dropdown-toggle" href="#"><span class="key">Währung :</span><span class="value"> CHF</span><b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#">USD</a></li>
+                                        <li><a href="#">INR</a></li>
+                                        <li><a href="#">GBP</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="dropdown dropdown-small">
+                                    <a data-toggle="dropdown" data-hover="dropdown" class="dropdown-toggle" href="#"><span class="key">Sprache :</span><span class="value"> Deutsch</span><b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#">Englisch</a></li>
+                                        <li><a href="#">Französisch</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- End header area -->
+
+        <div class="site-branding-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="logo">
+                            <h1>Cevi</h1>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="shopping-item">
+                            <a href="cart.html">Warenkorb - <span class="cart-amunt">CHF 100.-</span> <i class="fa fa-shopping-cart"></i> <span class="product-count">5</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- End site branding area -->
+
+        <div class="mainmenu-area">
+            <div class="container">
+                <div class="row">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li {% if navi_active == 'home' %}class="active"{% endif %}><a href="{{ path("startseite") }}">Home</a></li>
+                            <li {% if navi_active == 'shop' %}class="active"{% endif %}><a href="{{ path("shop") }}">Shop</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- End mainmenu area -->
+    {% endblock %}
         {% block body %}{% endblock %}
+        {% block footer %}
+            <div class="footer-top-area">
+                <div class="zigzag-bottom"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6">
+                            <div class="footer-about-us">
+                                <h2>Cevi<span> Webshop</span></h2>
+                                <p>Dies ist die IDPA von diesen Spasten</p>
+                                <div class="footer-social">
+                                    <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 col-sm-6">
+                            <div class="footer-menu">
+                                <h2 class="footer-wid-title">Navigation</h2>
+                                <ul>
+                                    <li><a href="#">Startseite</a></li>
+                                    <li><a href="#">Shops</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 col-sm-6">
+                            <div class="footer-menu">
+                                <h2 class="footer-wid-title">Kategorien</h2>
+                                <ul>
+                                    <li><a href="#">Cevi Sachen</a></li>
+                                    <li><a href="#">Ausrüstung</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 col-sm-6">
+                            <div class="footer-newsletter">
+                                <h2 class="footer-wid-title">Neues</h2>
+                                <p>Bitte geben Sie uns ein E-Mail, wir wären Ihnen sehr verbunden</p>
+                                <div class="newsletter-form">
+                                    <form action="#">
+                                        <input type="email" placeholder="Geben Sie Ihre E-Mail">
+                                        <input type="submit" value="Senden">
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- End footer top area -->
+
+            <div class="footer-bottom-area">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="copyright">
+                                <p>&copy; 2015 IDPA</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="footer-card-icon">
+                                <i class="fa fa-cc-paypal"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- End footer bottom area -->
+        {% endblock %}
         {% block javascripts %}
 
             <!-- Latest jQuery form server -->
