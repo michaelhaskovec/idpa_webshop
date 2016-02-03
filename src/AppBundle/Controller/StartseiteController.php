@@ -11,10 +11,10 @@ class StartseiteController extends Controller
     /**
      * @Route("/", name="startseite")
      */
-    public function indexAction(Request $request)
+    public function homeAction(Request $request)
     {
 
-        return $this->render('default/Startseite/index.html.twig', [
+        return $this->render('Frontend/Startseite/index.html.twig', [
 
         ]);
     }

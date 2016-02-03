@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2015-11-27T10:29:27Z" source-language="en" target-language="de" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="b858cb282617fb0956d960215c8e84d1ccf909c6" resname=" ">
+        <source> </source>
+        <target state="new"> </target>
+        <jms:reference-file line="20">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9eb4ec8b0a2f9dfd17d8b07dabcd21c01d7f5d81" resname="1. Wie viele Bestellungen haben Sie erhalten?">
+        <source>1. Wie viele Bestellungen haben Sie erhalten?</source>
+        <target state="new">1. Wie viele Bestellungen haben Sie erhalten?</target>
+        <jms:reference-file line="27">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bca7a972fc355cb4a05efecffc7ddec910f40a43" resname="1. Wie viele Verkaufsstellen besitzen Sie?">
+        <source>1. Wie viele Verkaufsstellen besitzen Sie?</source>
+        <target state="new">1. Wie viele Verkaufsstellen besitzen Sie?</target>
+        <jms:reference-file line="17">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="024ae12ced8fde25cbb1c70e8c7937c2160d4774" resname="10. Sind Sie VSV-Mitglied? (Verband des Schweizerischen Versandhandels)?">
+        <source>10. Sind Sie VSV-Mitglied? (Verband des Schweizerischen Versandhandels)?</source>
+        <target state="new">10. Sind Sie VSV-Mitglied? (Verband des Schweizerischen Versandhandels)?</target>
+        <jms:reference-file line="261">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="803f3187d000187b542b9376c1483bfc0bd2b747" resname="11. Weitere Bemerkungen / Anregungen / Feedback?">
+        <source>11. Weitere Bemerkungen / Anregungen / Feedback?</source>
+        <target state="new">11. Weitere Bemerkungen / Anregungen / Feedback?</target>
+        <jms:reference-file line="264">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bbf3f2e9d6242e926aa61f65e0b3ad65475f387f" resname="12. Sind sie einverstanden, dass Ihr Gesamtumsatz in der Studie &quot;Detailhandel Schweiz 2013&quot; publiziert werden darf&quot;?">
+        <source>12. Sind sie einverstanden, dass Ihr Gesamtumsatz in der Studie "Detailhandel Schweiz 2013" publiziert werden darf"?</source>
+        <target state="new">12. Sind sie einverstanden, dass Ihr Gesamtumsatz in der Studie "Detailhandel Schweiz 2013" publiziert werden darf"?</target>
+        <jms:reference-file line="268">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="762507b93158868c5fa15a86b5fbe30eb54180fa" resname="1b. Wie hoch ist der Mobile-Anteil an der Anzahl Online-Bestellungen in Prozent?">
+        <source>1b. Wie hoch ist der Mobile-Anteil an der Anzahl Online-Bestellungen in Prozent?</source>
+        <target state="new">1b. Wie hoch ist der Mobile-Anteil an der Anzahl Online-Bestellungen in Prozent?</target>
+        <jms:reference-file line="47">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f7d57e330e029439f38b9d8429eccccdaa5df525" resname="2. Wie gross ist Ihre Verkaufsfläche in m2?">
+        <source>2. Wie gross ist Ihre Verkaufsfläche in m2?</source>
+        <target state="new">2. Wie gross ist Ihre Verkaufsfläche in m2?</target>
+        <jms:reference-file line="31">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="be2f65e4d7a675987d84a17cad174abfc45a9b46" resname="2. Wie viele Pakete wurden versandt?">
+        <source>2. Wie viele Pakete wurden versandt?</source>
+        <target state="new">2. Wie viele Pakete wurden versandt?</target>
+        <jms:reference-file line="55">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e22cd461c068aea5dff1c3462214880d76b3e39c" resname="2010">
+        <source>2010</source>
+        <target state="new">2010</target>
+        <jms:reference-file line="36">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="53">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d08b10a32612f9d3bc06be41124becfd39536eee" resname="2013">
+        <source>2013</source>
+        <target state="new">2013</target>
+        <jms:reference-file line="22">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="39">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="56">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="39e21432a7dcba489697b4ef779f4b0c6f08b89f" resname="2014">
+        <source>2014</source>
+        <target state="new">2014</target>
+        <jms:reference-file line="25">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="42">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="59">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="24">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9cdda67ded3f25811728276cefa76b80913b4c54" resname="2015">
+        <source>2015</source>
+        <target state="new">2015</target>
+        <jms:reference-file line="28">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="45">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="62">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="24">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1f660072c8316eef4e3ae659dcd76d29ffc493a7" resname="3. Anzahl Retourenpakete?">
+        <source>3. Anzahl Retourenpakete?</source>
+        <target state="new">3. Anzahl Retourenpakete?</target>
+        <jms:reference-file line="63">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c6a991bdcbf5611b0c36d2d5b084d69a153cb7f7" resname="3. Wie hoch war Ihr Verkaufsumsatz in Mio. CHF?">
+        <source>3. Wie hoch war Ihr Verkaufsumsatz in Mio. CHF?</source>
+        <target state="new">3. Wie hoch war Ihr Verkaufsumsatz in Mio. CHF?</target>
+        <jms:reference-file line="48">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="be7ea9a8cee34f13a49972fd811cef2a5c174e00" resname="4. Wie haben Ihre Kunden ihre Rechnung beglichen?">
+        <source>4. Wie haben Ihre Kunden ihre Rechnung beglichen?</source>
+        <target state="new">4. Wie haben Ihre Kunden ihre Rechnung beglichen?</target>
+        <jms:reference-file line="74">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="291db8881cce0bdb121bf394b719f6a8a5fe223c" resname="4. Zusätzliche Angaben und Interpretationshilfen zu den Fragen 1 bis 3?">
+        <source>4. Zusätzliche Angaben und Interpretationshilfen zu den Fragen 1 bis 3?</source>
+        <target state="new">4. Zusätzliche Angaben und Interpretationshilfen zu den Fragen 1 bis 3?</target>
+        <jms:reference-file line="65">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="faa2d5f29620f54e0e5f69bb2505670c9bccc24e" resname="5. In welchen Geschäftsfeldern sind Sie tätig?">
+        <source>5. In welchen Geschäftsfeldern sind Sie tätig?</source>
+        <target state="new">5. In welchen Geschäftsfeldern sind Sie tätig?</target>
+        <jms:reference-file line="97">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c1092b72cedb2cd0b6094e2e1bea2598e8f5d980" resname="5a. Führt Ihr Unternehmen eine Kundenkarte?">
+        <source>5a. Führt Ihr Unternehmen eine Kundenkarte?</source>
+        <target state="new">5a. Führt Ihr Unternehmen eine Kundenkarte?</target>
+        <jms:reference-file line="68">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1a01dad0866880a72222381103cff4333bb08cbc" resname="5b. Wie viele aktive Kundenkarten sind es und wie hoch ist der Anteil des Umsatzes in Prozent mit Kundenkarten am Gesamtumsatz?">
+        <source>5b. Wie viele aktive Kundenkarten sind es und wie hoch ist der Anteil des Umsatzes in Prozent mit Kundenkarten am Gesamtumsatz?</source>
+        <target state="new">5b. Wie viele aktive Kundenkarten sind es und wie hoch ist der Anteil des Umsatzes in Prozent mit Kundenkarten am Gesamtumsatz?</target>
+        <jms:reference-file line="72">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="702b970c7bff1ef5b1911242f527a012074b3b85" resname="6. Versandhandel / Onlinehandel in der Schweiz">
+        <source>6. Versandhandel / Onlinehandel in der Schweiz</source>
+        <target state="new">6. Versandhandel / Onlinehandel in der Schweiz</target>
+        <jms:reference-file line="118">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="67a72f33229baf2a38c455e0dc57c2bbd3e5bf27" resname="6. Welche Verkaufsstelle von Ihnen und von anderen Kanälen würden Sie einem ausländischen Freund vorstellen, um ihm den Schweizer Detailhandel näher zu bringer? (Konzepte und Shops über die man spricht)">
+        <source>6. Welche Verkaufsstelle von Ihnen und von anderen Kanälen würden Sie einem ausländischen Freund vorstellen, um ihm den Schweizer Detailhandel näher zu bringer? (Konzepte und Shops über die man spricht)</source>
+        <target state="new">6. Welche Verkaufsstelle von Ihnen und von anderen Kanälen würden Sie einem ausländischen Freund vorstellen, um ihm den Schweizer Detailhandel näher zu bringer? (Konzepte und Shops über die man spricht)</target>
+        <jms:reference-file line="89">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6086a051b669ec2121ea941803312832157495b3" resname="7. Stationärer Handel?">
+        <source>7. Stationärer Handel?</source>
+        <target state="new">7. Stationärer Handel?</target>
+        <jms:reference-file line="217">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dfb2c46702136e83d9629857a2d937f52f1cbf5f" resname="7. Unser Ziel ist es, die Dokumentation &quot;Detailhandel Schweiz&quot; jährlich mit weiteren Informationen zu ergänzen. An welchen Themen/ Reportagen/ Hintergundinformationen rund um den Detailhandel sind Sie noch interessiert?">
+        <source>7. Unser Ziel ist es, die Dokumentation "Detailhandel Schweiz" jährlich mit weiteren Informationen zu ergänzen. An welchen Themen/ Reportagen/ Hintergundinformationen rund um den Detailhandel sind Sie noch interessiert?</source>
+        <target state="new">7. Unser Ziel ist es, die Dokumentation "Detailhandel Schweiz" jährlich mit weiteren Informationen zu ergänzen. An welchen Themen/ Reportagen/ Hintergundinformationen rund um den Detailhandel sind Sie noch interessiert?</target>
+        <jms:reference-file line="109">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a66ef384f9406b960aec90b7ad487dcb3aea8092" resname="8. Ihre Umsatzprognose fürs Jahr 2015?">
+        <source>8. Ihre Umsatzprognose fürs Jahr 2015?</source>
+        <target state="new">8. Ihre Umsatzprognose fürs Jahr 2015?</target>
+        <jms:reference-file line="231">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="be1d0fb74eb5637d2231ef6a472c5513d62eac30" resname="9. Wieviel Umsatz in Prozent haben Sie durch Preisreduktionen aufgrund der Währungsfreigabe schätzungsweise verloren?">
+        <source>9. Wieviel Umsatz in Prozent haben Sie durch Preisreduktionen aufgrund der Währungsfreigabe schätzungsweise verloren?</source>
+        <target state="new">9. Wieviel Umsatz in Prozent haben Sie durch Preisreduktionen aufgrund der Währungsfreigabe schätzungsweise verloren?</target>
+        <jms:reference-file line="251">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="522e146679608203fc36e220c4e176063c0733f2" resname="Adresse">
+        <source>Adresse</source>
+        <target state="new">Adresse</target>
+        <jms:reference-file line="99">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7b1d641ac90fa4a18d12e1db590b180d10ed8d51" resname="Andere (z.B. Bestellkarte / Fax)">
+        <source>Andere (z.B. Bestellkarte / Fax)</source>
+        <target state="new">Andere (z.B. Bestellkarte / Fax)</target>
+        <jms:reference-file line="41">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dcf711554418512f6200646dce56252dcdd9a056" resname="Ansprechperson">
+        <source>Ansprechperson</source>
+        <target state="new">Ansprechperson</target>
+        <jms:reference-file line="17">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9df14acac533cb96ba7903b8076591dc60ff8425" resname="Anzahl Filialen">
+        <source>Anzahl Filialen</source>
+        <target state="new">Anzahl Filialen</target>
+        <jms:reference-file line="222">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7062469d7632e2de8037285d58bd880b0725f76b" resname="Anzahl Kundenkarten 2014">
+        <source>Anzahl Kundenkarten 2014</source>
+        <target state="new">Anzahl Kundenkarten 2014</target>
+        <jms:reference-file line="77">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f7605bba65c69929664691f9796fcb023ddb1c8d" resname="Anzahl Kundenkarten 2015">
+        <source>Anzahl Kundenkarten 2015</source>
+        <target state="new">Anzahl Kundenkarten 2015</target>
+        <jms:reference-file line="83">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bce97da62838ed7c9ed319e1f8d689af1cdd78f6" resname="Anzahl in m2">
+        <source>Anzahl in m2</source>
+        <target state="new">Anzahl in m2</target>
+        <jms:reference-file line="225">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6eaff547de6d31e1580abd9996d46d5784ca3c17" resname="Anzahl retournierte Packete (absolute Zahlen)">
+        <source>Anzahl retournierte Packete (absolute Zahlen)</source>
+        <target state="new">Anzahl retournierte Packete (absolute Zahlen)</target>
+        <jms:reference-file line="68">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bd26f3d230afe66f494112b04dd33a943d0fb4a6" resname="Benutzer">
+        <source>Benutzer</source>
+        <target state="new">Benutzer</target>
+        <jms:reference-file line="44">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6ab9d1eaed5f3c425a28784ed426c6e2b1c5e662" resname="Branche">
+        <source>Branche</source>
+        <target state="new">Branche</target>
+        <jms:reference-file line="22">AppBundle/Form/DetailhandelType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bded3b3b6c1d1736cf910dafd493420b251e1c8d" resname="Business to Business">
+        <source>Business to Business</source>
+        <target state="new">Business to Business</target>
+        <jms:reference-file line="170">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d34f398d658e42d15b2bf24a639fec7d27b01611" resname="Business to Consumer">
+        <source>Business to Consumer</source>
+        <target state="new">Business to Consumer</target>
+        <jms:reference-file line="123">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7be79e5d1a6c71c3b13849f852bfa9ecf647281a" resname="Büro">
+        <source>Büro</source>
+        <target state="new">Büro</target>
+        <jms:reference-file line="146">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="193">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7a9fec60195477c930a09035192fb1a805a371e9" resname="CEO">
+        <source>CEO</source>
+        <target state="new">CEO</target>
+        <jms:reference-file line="17">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dfcad7f99db323ab6899faee3943ff7a039873b2" resname="Debitkarte (Postfinance, ec-maestro, etc.)">
+        <source>Debitkarte (Postfinance, ec-maestro, etc.)</source>
+        <target state="new">Debitkarte (Postfinance, ec-maestro, etc.)</target>
+        <jms:reference-file line="85">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="99361b51d142cc27907d3ac4eb3af0bbff7c1b36" resname="Detailhandel">
+        <source>Detailhandel</source>
+        <target state="new">Detailhandel</target>
+        <jms:reference-file line="16">AppBundle/Form/DetailhandelType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a6a7709266d3a74cd8c4657eb32a56d5727b91eb" resname="Deutsch">
+        <source>Deutsch</source>
+        <target state="new">Deutsch</target>
+        <jms:reference-file line="47">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9eeffe4b7b6e5e1e997946906659420d101fba64" resname="E-Mail">
+        <source>E-Mail</source>
+        <target state="new">E-Mail</target>
+        <jms:reference-file line="29">AppBundle/Form/PersonenType.php</jms:reference-file>
+        <jms:reference-file line="38">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="84add5b2952787581cb9a8851eef63d1ec75d22b" resname="Email">
+        <source>Email</source>
+        <target state="new">Email</target>
+        <jms:reference-file line="40">AppBundle/Form/DetailhandelType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d3a3025fb3912b086756e21e112418c726076f8e" resname="Ergebniserwartung 2015 ist ...">
+        <source>Ergebniserwartung 2015 ist ...</source>
+        <target state="new">Ergebniserwartung 2015 ist ...</target>
+        <jms:reference-file line="242">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ca459c7bd10f28593eb0e55776beae6bdda4d45e" resname="Erwartete Debitorenausfälle sind ...">
+        <source>Erwartete Debitorenausfälle sind ...</source>
+        <target state="new">Erwartete Debitorenausfälle sind ...</target>
+        <jms:reference-file line="247">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="439145df693732a7d4567e33720a90124508ecdb" resname="Firma">
+        <source>Firma</source>
+        <target state="new">Firma</target>
+        <jms:reference-file line="19">AppBundle/Form/DetailhandelType.php</jms:reference-file>
+        <jms:reference-file line="38">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="35b259290ec3acbb839d14cd18752dfb010f79ec" resname="Food">
+        <source>Food</source>
+        <target state="new">Food</target>
+        <jms:reference-file line="155">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="202">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a2091993c538313be5adf48935606e365ae716f8" resname="Französisch">
+        <source>Französisch</source>
+        <target state="new">Französisch</target>
+        <jms:reference-file line="47">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4527bdbe5c4bdfba3aa451e7161c6dc72386fef6" resname="Frau">
+        <source>Frau</source>
+        <target state="new">Frau</target>
+        <jms:reference-file line="20">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="199ca5267631a9218fcf4679da69a75450373c4e" resname="Freizeit">
+        <source>Freizeit</source>
+        <target state="new">Freizeit</target>
+        <jms:reference-file line="152">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="199">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="20313488e867d43d98761801bd5814dca0bd30c1" resname="Geprüft">
+        <source>Geprüft</source>
+        <target state="new">Geprüft</target>
+        <jms:reference-file line="271">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="54af778e41a7ed9f8c7d86ec2923788a41971126" resname="Gesamt Zahlungen">
+        <source>Gesamt Zahlungen</source>
+        <target state="new">Gesamt Zahlungen</target>
+        <jms:reference-file line="94">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d1f57ebe705f6c8ff701492efdafdbedb63298b1" resname="Geschenk- und Werbeartikel">
+        <source>Geschenk- und Werbeartikel</source>
+        <target state="new">Geschenk- und Werbeartikel</target>
+        <jms:reference-file line="161">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="208">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a54db4b8f56c32d2be95e74f3cab92316bbf6423" resname="Haus und Garten">
+        <source>Haus und Garten</source>
+        <target state="new">Haus und Garten</target>
+        <jms:reference-file line="134">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="181">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1db77fd65e0a7aa1389c5e4f6632739932d873c4" resname="Herr">
+        <source>Herr</source>
+        <target state="new">Herr</target>
+        <jms:reference-file line="20">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e44d924d7f74c789ac4a5996f840efbe2df4ab5" resname="Italienisch">
+        <source>Italienisch</source>
+        <target state="new">Italienisch</target>
+        <jms:reference-file line="47">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="283c735c8901fb2d4af6e619fe339fab53087ad1" resname="Ja">
+        <source>Ja</source>
+        <target state="new">Ja</target>
+        <jms:reference-file line="69">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="102">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="106">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="110">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="114">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="260">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="267">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="725886c5570811611e25a76b0483f64daed493ff" resname="Kosmetik">
+        <source>Kosmetik</source>
+        <target state="new">Kosmetik</target>
+        <jms:reference-file line="140">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="187">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5004a3dbf259c759e310688fcfc1febca2d8cffa" resname="Kreditkarte (inkl. PayPal)">
+        <source>Kreditkarte (inkl. PayPal)</source>
+        <target state="new">Kreditkarte (inkl. PayPal)</target>
+        <jms:reference-file line="82">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="eb07154c2baf73966bf9845e07284c9c4a407189" resname="Medien">
+        <source>Medien</source>
+        <target state="new">Medien</target>
+        <jms:reference-file line="149">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="196">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5ea4591fb06ddf6ed44b56aabe0729b9c4f82e8d" resname="Mobile Bestellungen">
+        <source>Mobile Bestellungen</source>
+        <target state="new">Mobile Bestellungen</target>
+        <jms:reference-file line="52">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="86962d12af92be3539e91e29d50278c0688ac338" resname="Multimedia / IT">
+        <source>Multimedia / IT</source>
+        <target state="new">Multimedia / IT</target>
+        <jms:reference-file line="137">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="184">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d20606731917cf76bbcf67a7f6e509e2554e4cbf" resname="Nachnahme/ Bar /Andere">
+        <source>Nachnahme/ Bar /Andere</source>
+        <target state="new">Nachnahme/ Bar /Andere</target>
+        <jms:reference-file line="91">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="709a23220f2c3d64d1e1d6d18c4d5280f8d82fca" resname="Name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <jms:reference-file line="94">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="26">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="70bb813787b6edbddbc06663378b7376fc5d0372" resname="Nein">
+        <source>Nein</source>
+        <target state="new">Nein</target>
+        <jms:reference-file line="69">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+        <jms:reference-file line="102">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="106">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="110">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="114">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="260">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="267">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2e63795e03783f1b8911c2cf9ecd8d88a95fbb5a" resname="Nicht Geprüft">
+        <source>Nicht Geprüft</source>
+        <target state="new">Nicht Geprüft</target>
+        <jms:reference-file line="271">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a89d175d79be1b36567cf2f90d3fc9c4d7f4a49f" resname="Noga Code">
+        <source>Noga Code</source>
+        <target state="new">Noga Code</target>
+        <jms:reference-file line="25">AppBundle/Form/DetailhandelType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="139e9968188f1286d02c4df1c39ae25c2dc2a48e" resname="Online (Webshop / Mobile / Apps)">
+        <source>Online (Webshop / Mobile / Apps)</source>
+        <target state="new">Online (Webshop / Mobile / Apps)</target>
+        <jms:reference-file line="32">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5b32776b99d11d03c0b302dace7c9592fa5b8b12" resname="PLZ / Ort">
+        <source>PLZ / Ort</source>
+        <target state="new">PLZ / Ort</target>
+        <jms:reference-file line="31">AppBundle/Form/DetailhandelType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ec9018df6b72d2f16dd462bed3db5f57c0efa882" resname="PLZ/Ort">
+        <source>PLZ/Ort</source>
+        <target state="new">PLZ/Ort</target>
+        <jms:reference-file line="104">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="234f85acbc5f7c371c71756bf21790a8755a1c11" resname="Rechnung (zahlbar nach Lieferung)">
+        <source>Rechnung (zahlbar nach Lieferung)</source>
+        <target state="new">Rechnung (zahlbar nach Lieferung)</target>
+        <jms:reference-file line="79">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a66156c46248ffff78b3f0fee2bc112a4b9ae812" resname="Retourenquote in Prozent (Retourenwert in CHF / Warenausgangswert in CHF)">
+        <source>Retourenquote in Prozent (Retourenwert in CHF / Warenausgangswert in CHF)</source>
+        <target state="new">Retourenquote in Prozent (Retourenwert in CHF / Warenausgangswert in CHF)</target>
+        <jms:reference-file line="71">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d59e87a787ba681a94d3e22a01bed4d138d6ed3c" resname="Schmuck">
+        <source>Schmuck</source>
+        <target state="new">Schmuck</target>
+        <jms:reference-file line="143">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="190">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8f7c44f1b4c3e17e363ceb05e1d00f06011a0220" resname="Stationärer Handel">
+        <source>Stationärer Handel</source>
+        <target state="new">Stationärer Handel</target>
+        <jms:reference-file line="111">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c729ce1b3e7285842355b5544b5b767dd7ee3a24" resname="Strasse / Nummer">
+        <source>Strasse / Nummer</source>
+        <target state="new">Strasse / Nummer</target>
+        <jms:reference-file line="28">AppBundle/Form/DetailhandelType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="41b9c7fedad4f5b5b831f3fb994a7732bc50bcb2" resname="Telefax">
+        <source>Telefax</source>
+        <target state="new">Telefax</target>
+        <jms:reference-file line="37">AppBundle/Form/DetailhandelType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="40314f882822f7fccd78a36ac4c977000e334136" resname="Telefon">
+        <source>Telefon</source>
+        <target state="new">Telefon</target>
+        <jms:reference-file line="34">AppBundle/Form/DetailhandelType.php</jms:reference-file>
+        <jms:reference-file line="32">AppBundle/Form/PersonenType.php</jms:reference-file>
+        <jms:reference-file line="35">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="91f3b62a9f80b477fd83fdd242fb5a003d7ad6de" resname="Textil">
+        <source>Textil</source>
+        <target state="new">Textil</target>
+        <jms:reference-file line="128">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="175">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b25928c69902557b0ef0a628490a3a1768d7b82f" resname="Total">
+        <source>Total</source>
+        <target state="new">Total</target>
+        <jms:reference-file line="167">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="214">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="322390ec35d45c330cb605366ee99b18bcfa3262" resname="Total Bestellungen">
+        <source>Total Bestellungen</source>
+        <target state="new">Total Bestellungen</target>
+        <jms:reference-file line="44">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="60">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c52a434b2c3319db68aae17e1abf332ea3cf6948" resname="Umsatz Anteil in Prozent mit Kundenkarten 2014">
+        <source>Umsatz Anteil in Prozent mit Kundenkarten 2014</source>
+        <target state="new">Umsatz Anteil in Prozent mit Kundenkarten 2014</target>
+        <jms:reference-file line="80">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f8cd8a2115c4f445178827c944885605ca3eca88" resname="Umsatz Anteil in Prozent mit Kundenkarten 2015">
+        <source>Umsatz Anteil in Prozent mit Kundenkarten 2015</source>
+        <target state="new">Umsatz Anteil in Prozent mit Kundenkarten 2015</target>
+        <jms:reference-file line="86">AppBundle/Form/DetailhandelDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f54102cb92dda74663b096407cc3a3302e967042" resname="Umsatz in Mio. CHF">
+        <source>Umsatz in Mio. CHF</source>
+        <target state="new">Umsatz in Mio. CHF</target>
+        <jms:reference-file line="228">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8f2875ecb8cf0be6233769fa0c7d1bf74de763e1" resname="Umsatzerwartung für 2015 ist ...">
+        <source>Umsatzerwartung für 2015 ist ...</source>
+        <target state="new">Umsatzerwartung für 2015 ist ...</target>
+        <jms:reference-file line="237">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b8e718ea1d69641c1b0ef8b90d1235ebc0375dfa" resname="Umsatzminderung in Prozent">
+        <source>Umsatzminderung in Prozent</source>
+        <target state="new">Umsatzminderung in Prozent</target>
+        <jms:reference-file line="256">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="810d8a00db594beb720fd9a79080b654e564e4a6" resname="Verkäufe über Shops bei Ebay oder ricardo.ch">
+        <source>Verkäufe über Shops bei Ebay oder ricardo.ch</source>
+        <target state="new">Verkäufe über Shops bei Ebay oder ricardo.ch</target>
+        <jms:reference-file line="115">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="07eadfeb51b91fc8aa1cd447220f74a6bab4f6f9" resname="Versandhandel / Onlinehandel im Bereich Business to Business">
+        <source>Versandhandel / Onlinehandel im Bereich Business to Business</source>
+        <target state="new">Versandhandel / Onlinehandel im Bereich Business to Business</target>
+        <jms:reference-file line="107">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b5458f846bc8b53fabee5594beaa94f30a0287c" resname="Versandhandel / Onlinehandel im Bereich Business to Consumer">
+        <source>Versandhandel / Onlinehandel im Bereich Business to Consumer</source>
+        <target state="new">Versandhandel / Onlinehandel im Bereich Business to Consumer</target>
+        <jms:reference-file line="103">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fb32c6cb36a20823eb778faca896078502de887a" resname="Vorauszahlung">
+        <source>Vorauszahlung</source>
+        <target state="new">Vorauszahlung</target>
+        <jms:reference-file line="88">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1679e156baac99de78a9b399995335a652a5b4a0" resname="Vorname">
+        <source>Vorname</source>
+        <target state="new">Vorname</target>
+        <jms:reference-file line="23">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3d9982c77216f1a618c1a6aaac5bb7c31f146f04" resname="Vsv">
+        <source>Vsv</source>
+        <target state="new">Vsv</target>
+        <jms:reference-file line="16">AppBundle/Form/DetailhandelType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c41114f173b0b42dcda80ce78063d4c63fe001a8" resname="Webseite">
+        <source>Webseite</source>
+        <target state="new">Webseite</target>
+        <jms:reference-file line="43">AppBundle/Form/DetailhandelType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6b11a2f9d0aa8d5ad127438fe613fa480b460494" resname="Werkzeuge">
+        <source>Werkzeuge</source>
+        <target state="new">Werkzeuge</target>
+        <jms:reference-file line="158">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="205">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="10c6a296bb4811a34a283547f829a53579094c6f" resname="Wohnen">
+        <source>Wohnen</source>
+        <target state="new">Wohnen</target>
+        <jms:reference-file line="131">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="178">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cbd008ef4b42adf0245e5026034663c8007d213d" resname="admin.detailhandel.aktiv">
+        <source>admin.detailhandel.aktiv</source>
+        <target>Aktiv</target>
+        <jms:reference-file line="29">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0367c91717a25121fe5c7e059100546ab2e4c57c" resname="admin.detailhandel.alle">
+        <source>admin.detailhandel.alle</source>
+        <target>Alle</target>
+        <jms:reference-file line="28">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b2d750be073aeb226f23895a5cd45f3cfbe584e2" resname="admin.detailhandel.detailhandel">
+        <source>admin.detailhandel.detailhandel</source>
+        <target>Detailhandel</target>
+        <jms:reference-file line="18">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d301e86ad663e5763e8bc3fe56f82492b792adc0" resname="admin.detailhandel.details.detailhandel_umfragebogen">
+        <source>admin.detailhandel.details.detailhandel_umfragebogen</source>
+        <target>Detailhandel Umfragebogen</target>
+        <jms:reference-file line="18">templates/detailhandel/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8e698e93d533f31a9316b6089cca03e60eab6c0b" resname="admin.detailhandel.inaktiv">
+        <source>admin.detailhandel.inaktiv</source>
+        <target>Inaktiv</target>
+        <jms:reference-file line="30">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d8c3975e45850f766786ed85beaa72b4fa5720c5" resname="admin.detailhandel.seite_1_von_100">
+        <source>admin.detailhandel.seite_1_von_100</source>
+        <target>Seite 1 von 100</target>
+        <jms:reference-file line="62">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e2c1971dd94f981c82f70e5a3fb7925971bb7c6e" resname="admin.detailhandel.status_auswählen">
+        <source>admin.detailhandel.status_auswählen</source>
+        <target>Status auswählen</target>
+        <jms:reference-file line="27">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6883c05fa98f737847f87422b97f7628fb093c7a" resname="admin.detailhandel.table.details">
+        <source>admin.detailhandel.table.details</source>
+        <target>Details</target>
+        <jms:reference-file line="55">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8de6c6df8b89f73389a2b55f19cbd56abff3aca3" resname="admin.detailhandel.table.header.firma">
+        <source>admin.detailhandel.table.header.firma</source>
+        <target>Firma</target>
+        <jms:reference-file line="40">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="aa5408611d3d5b1e6c0f7038529922deaea7723d" resname="admin.detailhandel.table.header.id">
+        <source>admin.detailhandel.table.header.id</source>
+        <target>admin.detailhandel.table.header.id</target>
+        <jms:reference-file line="39">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5a0789a8138d322186a158a2ba7a0e939e274c2b" resname="admin.detailhandel.table.header.name">
+        <source>admin.detailhandel.table.header.name</source>
+        <target>Name</target>
+        <jms:reference-file line="43">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d4f341617f1fb5f643e4cc1feadce3872c1dad19" resname="admin.detailhandel.table.header.person">
+        <source>admin.detailhandel.table.header.person</source>
+        <target>Person</target>
+        <jms:reference-file line="41">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="25baa2d5a3ab3597b69f4305ee5d33169dd6843d" resname="admin.detailhandel.table.header.teilnehmer_aktiv">
+        <source>admin.detailhandel.table.header.teilnehmer_aktiv</source>
+        <target>Teilnehmer aktiv</target>
+        <jms:reference-file line="44">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e25342a5737fa4251bf4f67de230d89b7700a5ef" resname="admin.detailhandel.table.header.vorname">
+        <source>admin.detailhandel.table.header.vorname</source>
+        <target>Vorname</target>
+        <jms:reference-file line="42">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f35a83fcd850d6fc330d6ecc70df6e7a63c86924" resname="admin.detailhandel.übersicht">
+        <source>admin.detailhandel.übersicht</source>
+        <target> - Übersicht</target>
+        <jms:reference-file line="18">templates/detailhandel/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="eb2e51a74d1cb2cbdb452086d52d1c7d78a79a13" resname="admin.firmen.aktiv">
+        <source>admin.firmen.aktiv</source>
+        <target>Aktiv</target>
+        <jms:reference-file line="29">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6e4b1ea1627402ef30a8cb833a134ec9203f4da6" resname="admin.firmen.alle">
+        <source>admin.firmen.alle</source>
+        <target>Alle</target>
+        <jms:reference-file line="28">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3dd70de7314dd295f831fe64b5e48b73bcb39a70" resname="admin.firmen.edit.firma_bearbeiten">
+        <source>admin.firmen.edit.firma_bearbeiten</source>
+        <target>Firma bearbeiten</target>
+        <jms:reference-file line="18">templates/firmen/edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fe0f12a1d80d47ad62de29ec87e128e52a3a9179" resname="admin.firmen.firma_erfassen">
+        <source>admin.firmen.firma_erfassen</source>
+        <target>Firma erfassen</target>
+        <jms:reference-file line="57">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="48d14c2bf5a7c7b6a1f0ea7d0eb9bd82c4ff26cd" resname="admin.firmen.firmen">
+        <source>admin.firmen.firmen</source>
+        <target>Firmen</target>
+        <jms:reference-file line="18">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="22010981af34be71ffd43943ccf1d44d9c06e58f" resname="admin.firmen.inaktiv">
+        <source>admin.firmen.inaktiv</source>
+        <target>Inaktiv</target>
+        <jms:reference-file line="30">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="03415c5bd8bf4895e9ab92b527faa53c0274aee5" resname="admin.firmen.insert.firma_eintragen">
+        <source>admin.firmen.insert.firma_eintragen</source>
+        <target>Firma eintragen</target>
+        <jms:reference-file line="18">templates/firmen/insert.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="412bbee0197ef6f667bb6a1355c7d9c62b97fa1e" resname="admin.firmen.seite_1_von_100">
+        <source>admin.firmen.seite_1_von_100</source>
+        <target>Seite 1 von 100</target>
+        <jms:reference-file line="61">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0a745483cbf6e2bada9eec3eb6f099704d91d33f" resname="admin.firmen.status_auswählen">
+        <source>admin.firmen.status_auswählen</source>
+        <target>Status auswählen</target>
+        <jms:reference-file line="27">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="84ff897828dd04fcef517f42e7d91be9340083a3" resname="admin.firmen.table.editieren">
+        <source>admin.firmen.table.editieren</source>
+        <target>Editieren</target>
+        <jms:reference-file line="53">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9a80934d62f0e81e8323be14f53cd371025d45c8" resname="admin.firmen.table.header.firma">
+        <source>admin.firmen.table.header.firma</source>
+        <target>Firma</target>
+        <jms:reference-file line="40">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7aeb2d1285dbea8900b1335fbe687950074f4d41" resname="admin.firmen.table.header.id">
+        <source>admin.firmen.table.header.id</source>
+        <target>ID</target>
+        <jms:reference-file line="39">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c3199af886bdbbe68412ab1b403c44cb9be4bc95" resname="admin.firmen.table.header.plz_ort">
+        <source>admin.firmen.table.header.plz_ort</source>
+        <target>PLZ / Ort</target>
+        <jms:reference-file line="41">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8a2d410a21ff0e6f9aab6d3ecdae1a4759e3414a" resname="admin.firmen.table.header.status">
+        <source>admin.firmen.table.header.status</source>
+        <target>Status</target>
+        <jms:reference-file line="43">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1c6ae59b5c09f167de89d4a91fb1606a6779eced" resname="admin.firmen.table.header.umfrage">
+        <source>admin.firmen.table.header.umfrage</source>
+        <target>Umfrage</target>
+        <jms:reference-file line="42">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9a7171c327433e945ca01dae1fd7573f03dd0528" resname="admin.firmen.übersicht">
+        <source>admin.firmen.übersicht</source>
+        <target> - Übersicht</target>
+        <jms:reference-file line="18">templates/firmen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5531f7f541d8e778eb2c5019c6d4fe8cb406b0ff" resname="admin.header.benutzer">
+        <source>admin.header.benutzer</source>
+        <target>Benutzer</target>
+        <jms:reference-file line="10">views/backend/base.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="417f026420e522265d57b79cc4025ed16808374d" resname="admin.header.logout">
+        <source>admin.header.logout</source>
+        <target>Logout</target>
+        <jms:reference-file line="8">views/backend/base.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="53399fe42717ddd829a7167eefdd2d9163192651" resname="admin.header.support">
+        <source>admin.header.support</source>
+        <target>Support</target>
+        <jms:reference-file line="9">views/backend/base.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1516e5452dc4225598b347539ece6b0f687dd382" resname="admin.nav.app">
+        <source>admin.nav.app</source>
+        <target>App</target>
+        <jms:reference-file line="22">views/backend/base.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="02686890031190e466780b8295d06f77c47bbe7c" resname="admin.nav.detailhandel">
+        <source>admin.nav.detailhandel</source>
+        <target>Detailhandel</target>
+        <jms:reference-file line="35">views/backend/base.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="baebe36cdefce1e2473a85105313db28fb6dd41d" resname="admin.nav.firmen">
+        <source>admin.nav.firmen</source>
+        <target>Firmen</target>
+        <jms:reference-file line="39">views/backend/base.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="56f9c34f4b214829c2209060de0a077d6c73620d" resname="admin.nav.personen">
+        <source>admin.nav.personen</source>
+        <target>Personen</target>
+        <jms:reference-file line="43">views/backend/base.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7645dd20d4df5026122a1c223892ae8493f2dd99" resname="admin.nav.umfrage">
+        <source>admin.nav.umfrage</source>
+        <target>Umfrage</target>
+        <jms:reference-file line="22">views/backend/base.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c0c569596163a4f573b5e1b0c110e73534310c29" resname="admin.nav.versand">
+        <source>admin.nav.versand</source>
+        <target>Versand</target>
+        <jms:reference-file line="47">views/backend/base.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="69acebef58b10ac803a1b6a9f37a297f60b17b2b" resname="admin.personen.aktiv">
+        <source>admin.personen.aktiv</source>
+        <target>Aktiv</target>
+        <jms:reference-file line="29">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6cc1ae47cbdcfc4c18d5239d362394cda196312e" resname="admin.personen.alle">
+        <source>admin.personen.alle</source>
+        <target>Alle</target>
+        <jms:reference-file line="28">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b8d68823290f1db30002b2c19f4f247ede9add08" resname="admin.personen.edit.vsv_umfragebogen">
+        <source>admin.personen.edit.vsv_umfragebogen</source>
+        <target>VSV Umfragebogen</target>
+        <jms:reference-file line="18">templates/personen/edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ada78e3266061351cdf965f482309fae41272cba" resname="admin.personen.editieren">
+        <source>admin.personen.editieren</source>
+        <target>Editieren</target>
+        <jms:reference-file line="61">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4dd80c526f006ab2bdd8a91aaef158184f03f2bf" resname="admin.personen.inaktiv">
+        <source>admin.personen.inaktiv</source>
+        <target>Inaktiv</target>
+        <jms:reference-file line="30">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="69f528715e833d0654179f24e663fb66d2ff39f3" resname="admin.personen.insert.personen_eintragen">
+        <source>admin.personen.insert.personen_eintragen</source>
+        <target>Personen eintragen</target>
+        <jms:reference-file line="18">templates/personen/insert.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="696b026561aa1781dc3dcbb7952b09a7b1d7e5d0" resname="admin.personen.personen">
+        <source>admin.personen.personen</source>
+        <target>Personen</target>
+        <jms:reference-file line="18">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="914d78486ed0ee546949aa574cb05dca8cc3be2f" resname="admin.personen.seite_1_von_100">
+        <source>admin.personen.seite_1_von_100</source>
+        <target>Seite 1 von 100</target>
+        <jms:reference-file line="68">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d2b85b870a2854b766d5abda1b51b70122fe990a" resname="admin.personen.status_auswàhlen">
+        <source>admin.personen.status_auswàhlen</source>
+        <target>Status auswählen</target>
+        <jms:reference-file line="27">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="70102fd79128ab069a5f468844685660455928e6" resname="admin.personen.table.header.anrede">
+        <source>admin.personen.table.header.anrede</source>
+        <target>Anrede</target>
+        <jms:reference-file line="42">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9f9be0764000bcff173e3ef6a2efefe0e494c272" resname="admin.personen.table.header.email">
+        <source>admin.personen.table.header.email</source>
+        <target>Email</target>
+        <jms:reference-file line="45">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="df6cafd1d5da20b44259abae3457dc86b53dd46b" resname="admin.personen.table.header.firma">
+        <source>admin.personen.table.header.firma</source>
+        <target>Firma</target>
+        <jms:reference-file line="40">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f0e831cc174ddb62f34db502a00195a7094fee80" resname="admin.personen.table.header.id">
+        <source>admin.personen.table.header.id</source>
+        <target>ID</target>
+        <jms:reference-file line="39">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="473cb40a9a570a4ae7a6b460adffbc815cbcbdc7" resname="admin.personen.table.header.name">
+        <source>admin.personen.table.header.name</source>
+        <target>Name</target>
+        <jms:reference-file line="44">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4449014a6c03c9d14aaecde086f829f0f58ac3e2" resname="admin.personen.table.header.person">
+        <source>admin.personen.table.header.person</source>
+        <target>Person</target>
+        <jms:reference-file line="41">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3878fc551927ff0b986dffdf89f44d8584797687" resname="admin.personen.table.header.teilnehmer_aktiv">
+        <source>admin.personen.table.header.teilnehmer_aktiv</source>
+        <target>Teinehmer aktiv</target>
+        <jms:reference-file line="47">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="98c80c201508bc36bc4f3d5b44ded35193e80adf" resname="admin.personen.table.header.telefon">
+        <source>admin.personen.table.header.telefon</source>
+        <target>Telefon</target>
+        <jms:reference-file line="46">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a0b4095bb948812b5e503627282b9a5d02b0c9fe" resname="admin.personen.table.header.vorname">
+        <source>admin.personen.table.header.vorname</source>
+        <target>Vorname</target>
+        <jms:reference-file line="43">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="54b2bb256b991416563f6ac15e262e4ed65802ff" resname="admin.personen.übersicht">
+        <source>admin.personen.übersicht</source>
+        <target> - Übersicht</target>
+        <jms:reference-file line="18">templates/personen/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="042679301d4b5d9669c62b67c5e1c4fe420b026c" resname="admin.vsv.aktiv">
+        <source>admin.vsv.aktiv</source>
+        <target>Aktiv</target>
+        <jms:reference-file line="31">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5c524336f185495024dc9d1a91af49e02c0b3353" resname="admin.vsv.alle">
+        <source>admin.vsv.alle</source>
+        <target>Alle</target>
+        <jms:reference-file line="30">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="827fecac527ad0d44cce68e59baa51ea9608d4ff" resname="admin.vsv.details">
+        <source>admin.vsv.details</source>
+        <target>Details</target>
+        <jms:reference-file line="57">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7b06b2dd2b8efe97d4ba0edc4e42142e188b85fc" resname="admin.vsv.details.vsv_umfragebogen">
+        <source>admin.vsv.details.vsv_umfragebogen</source>
+        <target>VSV Umfragebogen</target>
+        <jms:reference-file line="18">templates/vsv/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ca41cc031421fed9b8490b9a2d28a1b4cb206a7b" resname="admin.vsv.inaktiv">
+        <source>admin.vsv.inaktiv</source>
+        <target>Inaktiv</target>
+        <jms:reference-file line="32">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f9419b83247fb0fbbe2ffd29d4fc2241aa557500" resname="admin.vsv.seite_1_von_100">
+        <source>admin.vsv.seite_1_von_100</source>
+        <target>Seite 1 von 100</target>
+        <jms:reference-file line="64">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="120b0c7075c2be0298b328c88b2968da6f5bc98f" resname="admin.vsv.status_auswählen">
+        <source>admin.vsv.status_auswählen</source>
+        <target>Status auswählen</target>
+        <jms:reference-file line="29">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c2af2d0de9aad5d049c20ab49507137185aa7443" resname="admin.vsv.table.header.firma">
+        <source>admin.vsv.table.header.firma</source>
+        <target>Firma</target>
+        <jms:reference-file line="42">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="085d39513494fbbba1ec3c274b4fc265029e0548" resname="admin.vsv.table.header.id">
+        <source>admin.vsv.table.header.id</source>
+        <target>ID</target>
+        <jms:reference-file line="41">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f81e072fd21f4b734fdf5ebc07837313f5537842" resname="admin.vsv.table.header.name">
+        <source>admin.vsv.table.header.name</source>
+        <target>Name</target>
+        <jms:reference-file line="45">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ae23d3b6ff690db4442a93c80a205cc39c3d4ad6" resname="admin.vsv.table.header.person">
+        <source>admin.vsv.table.header.person</source>
+        <target>Person</target>
+        <jms:reference-file line="43">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="010cedf76574d09d84fb29bd4728e2b5d0352b0f" resname="admin.vsv.table.header.teilnehmer_aktiv">
+        <source>admin.vsv.table.header.teilnehmer_aktiv</source>
+        <target>Teilnehmer aktiv</target>
+        <jms:reference-file line="46">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="becda3860f70e76da5837f762dcba6b699f7c9ad" resname="admin.vsv.table.header.vorname">
+        <source>admin.vsv.table.header.vorname</source>
+        <target>Vorname</target>
+        <jms:reference-file line="44">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7837dc4bfb594a7dbc8edc161af43b7e0d59d7b4" resname="admin.vsv.vsv">
+        <source>admin.vsv.vsv</source>
+        <target>VSV</target>
+        <jms:reference-file line="20">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="87a1118f2caa475ee71e1dbcd145846bc5bfeec1" resname="admin.vsv.übersicht">
+        <source>admin.vsv.übersicht</source>
+        <target> - Übersicht</target>
+        <jms:reference-file line="20">templates/vsv/index.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="586af4477774c24b07f9818d7d2939c3ed288724" resname="aktiv">
+        <source>aktiv</source>
+        <target>Aktiv</target>
+        <jms:reference-file line="50">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3e7b0621fb027701ca1c2f2646f2ea0d6d99c2d2" resname="frontend.vsv.firmeninfos.firmeninfos">
+        <source>frontend.vsv.firmeninfos.firmeninfos</source>
+        <target>Firmeninfos</target>
+        <jms:reference-file line="21">templates/vsv/vsv-startseite.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ed29080dc516b1aa2922e34861b5abbd7255a333" resname="frontend.vsv.firmeninfos.geschaeftsfelder">
+        <source>frontend.vsv.firmeninfos.geschaeftsfelder</source>
+        <target><![CDATA[Geschäftsfelder & Umsätze]]></target>
+        <jms:reference-file line="33">templates/vsv/vsv-startseite.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e5435eebfea9b8e0226c0b57d107154c7a10e0c3" resname="frontend.vsv.firmeninfos.versand-onlinhandel">
+        <source>frontend.vsv.firmeninfos.versand-onlinhandel</source>
+        <target><![CDATA[Versand- & Onlinehandel]]></target>
+        <jms:reference-file line="27">templates/vsv/vsv-startseite.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dfe2e1ee387396371e0bed2d683d4cf02c50ead5" resname="frontend.vsv.geschaeftsfelder.beenden">
+        <source>frontend.vsv.geschaeftsfelder.beenden</source>
+        <target>Beenden</target>
+        <jms:reference-file line="268">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="51d0ed756065a411604f2e19cf3e0a0fba361c90" resname="frontend.vsv.geschaeftsfelder.firmeninfos">
+        <source>frontend.vsv.geschaeftsfelder.firmeninfos</source>
+        <target>Firmeninfos</target>
+        <jms:reference-file line="20">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3e09059c47d688dbffc70c12405ba26144f9cdcd" resname="frontend.vsv.geschaeftsfelder.frage10">
+        <source>frontend.vsv.geschaeftsfelder.frage10</source>
+        <target>Sind Sie VSV-Mitglied? (Verband des Schweizerischen Versandhandels)</target>
+        <jms:reference-file line="240">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f8ea7171d236674f98f3f443012b8d0224aa83e2" resname="frontend.vsv.geschaeftsfelder.frage10.label.janein">
+        <source>frontend.vsv.geschaeftsfelder.frage10.label.janein</source>
+        <target>Ja / Nein</target>
+        <jms:reference-file line="243">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="26fea5046e430e3785e2c1ff4089d7a90fe7c65e" resname="frontend.vsv.geschaeftsfelder.frage11">
+        <source>frontend.vsv.geschaeftsfelder.frage11</source>
+        <target>Weitere Bemerkungen / Anregungen / Feedback?</target>
+        <jms:reference-file line="248">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5e91254ca6ad0c33bf79f21294be6bbbbeb987c9" resname="frontend.vsv.geschaeftsfelder.frage12">
+        <source>frontend.vsv.geschaeftsfelder.frage12</source>
+        <target>Sind Sie einverstanden, dass Ihr Gesamtumsatz in der Studie "Detailhandel Schweiz 2013" publiziert werden darf?</target>
+        <jms:reference-file line="255">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="89e753762688d64a156b6de6c912c7e767586bd1" resname="frontend.vsv.geschaeftsfelder.frage12.label.janein">
+        <source>frontend.vsv.geschaeftsfelder.frage12.label.janein</source>
+        <target>Ja / Nein</target>
+        <jms:reference-file line="258">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5a03e6f2d7cf7b2777a74bbf46619cb8690f545e" resname="frontend.vsv.geschaeftsfelder.frage5">
+        <source>frontend.vsv.geschaeftsfelder.frage5</source>
+        <target>In welchen Geschäftsfeldern sind Sie tätig?</target>
+        <jms:reference-file line="42">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b844134c381ee12f54d05d3679ac7364cb1a5ab2" resname="frontend.vsv.geschaeftsfelder.frage5.labe.stationaer">
+        <source>frontend.vsv.geschaeftsfelder.frage5.labe.stationaer</source>
+        <target>Stationärer Handel</target>
+        <jms:reference-file line="53">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0916fb4b0c778dd5b36418796f80312a81ef64e9" resname="frontend.vsv.geschaeftsfelder.frage5.label.consumer">
+        <source>frontend.vsv.geschaeftsfelder.frage5.label.consumer</source>
+        <target>Versandhandel / Onlinehandel im Bereich Business to Consumer</target>
+        <jms:reference-file line="45">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+        <jms:reference-file line="49">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ea445f016942178979b64aa1edb6458c59dbd55d" resname="frontend.vsv.geschaeftsfelder.frage5.label.verkaeufe">
+        <source>frontend.vsv.geschaeftsfelder.frage5.label.verkaeufe</source>
+        <target>Verkäufe über Shops bei Ebay oder ricardo.ch</target>
+        <jms:reference-file line="57">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5a68300f2bed56c459b01f4f157b8f62b5a5e414" resname="frontend.vsv.geschaeftsfelder.frage6">
+        <source>frontend.vsv.geschaeftsfelder.frage6</source>
+        <target>Versandhander / Onlinehandel in der Schweiz</target>
+        <jms:reference-file line="62">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5ff450bcd673764c733bdd58289d04a52af458e2" resname="frontend.vsv.geschaeftsfelder.frage6.label.buero">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.buero</source>
+        <target>Büro</target>
+        <jms:reference-file line="119">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8f020bcb4375f63f8599a57c972f3db114572092" resname="frontend.vsv.geschaeftsfelder.frage6.label.food">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.food</source>
+        <target>Food</target>
+        <jms:reference-file line="140">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9103293e4c3c34664bbe6ea1aa044d8bfdd60ab2" resname="frontend.vsv.geschaeftsfelder.frage6.label.freizeit">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.freizeit</source>
+        <target>Freizeit</target>
+        <jms:reference-file line="133">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c3eaec97aa3d82e424cf201df03432be5d6f715c" resname="frontend.vsv.geschaeftsfelder.frage6.label.geschenk">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.geschenk</source>
+        <target>Geschenk</target>
+        <jms:reference-file line="154">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="65d88a4fa8780dcbefcd2d574c3d97bff2788f82" resname="frontend.vsv.geschaeftsfelder.frage6.label.haus">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.haus</source>
+        <target>Haus</target>
+        <jms:reference-file line="91">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5d319bc3fdc1950470c54867e3c7dba0b75af798" resname="frontend.vsv.geschaeftsfelder.frage6.label.kosmetik">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.kosmetik</source>
+        <target>Kosmetik</target>
+        <jms:reference-file line="105">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c1aa9a37182376ec3a054d402abbe4be24db82e2" resname="frontend.vsv.geschaeftsfelder.frage6.label.medien">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.medien</source>
+        <target>Medien</target>
+        <jms:reference-file line="126">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="baffb3715e9fbc75c9745e7d92554a12ea4ffe4e" resname="frontend.vsv.geschaeftsfelder.frage6.label.multimedia">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.multimedia</source>
+        <target>Multimedia</target>
+        <jms:reference-file line="98">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4decc7e59f688cbc9c30bdd726076ddb51f9b364" resname="frontend.vsv.geschaeftsfelder.frage6.label.schmuck">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.schmuck</source>
+        <target>Schmuck</target>
+        <jms:reference-file line="112">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="92e348d919dd9452709961947aeec1d294654c7a" resname="frontend.vsv.geschaeftsfelder.frage6.label.textil">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.textil</source>
+        <target>Textil</target>
+        <jms:reference-file line="77">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="74335fce9bd7d247adac547a9bc5ada9828f1644" resname="frontend.vsv.geschaeftsfelder.frage6.label.total">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.total</source>
+        <target>Total</target>
+        <jms:reference-file line="168">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fca786697742e41fe708c0609958380b4ceff6ef" resname="frontend.vsv.geschaeftsfelder.frage6.label.uebrige">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.uebrige</source>
+        <target>Übrige</target>
+        <jms:reference-file line="161">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="52188abdef4319fa14c082c096c8f4607097f3e6" resname="frontend.vsv.geschaeftsfelder.frage6.label.werkzeuge">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.werkzeuge</source>
+        <target>Werkzeuge</target>
+        <jms:reference-file line="147">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="967080ceded53c16eb14b134fd4b5ce3d02fedf1" resname="frontend.vsv.geschaeftsfelder.frage6.label.wohnen">
+        <source>frontend.vsv.geschaeftsfelder.frage6.label.wohnen</source>
+        <target>Wohnen</target>
+        <jms:reference-file line="84">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="74697fa87bb26edd73e65edeabb3b3e2009eea9f" resname="frontend.vsv.geschaeftsfelder.frage7">
+        <source>frontend.vsv.geschaeftsfelder.frage7</source>
+        <target>Stationärer Handel</target>
+        <jms:reference-file line="176">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="61df4d2e971fff8c6c3402f6520f3d425006a24b" resname="frontend.vsv.geschaeftsfelder.frage7.label.anzfilialen">
+        <source>frontend.vsv.geschaeftsfelder.frage7.label.anzfilialen</source>
+        <target>Anzahl Filialen</target>
+        <jms:reference-file line="184">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e50c035df11a12c749b21f67f1ceb9c20db20a49" resname="frontend.vsv.geschaeftsfelder.frage7.label.anzm">
+        <source>frontend.vsv.geschaeftsfelder.frage7.label.anzm</source>
+        <target>Anzahl m2</target>
+        <jms:reference-file line="189">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bc01ac03c6d8fa6ce943ffef5bb58d5c2242b13f" resname="frontend.vsv.geschaeftsfelder.frage7.label.umsatz">
+        <source>frontend.vsv.geschaeftsfelder.frage7.label.umsatz</source>
+        <target>Umsatz in Mio. CHF</target>
+        <jms:reference-file line="194">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="afa1723dee1e42acd2c82be3d180b5aa0025f732" resname="frontend.vsv.geschaeftsfelder.frage8">
+        <source>frontend.vsv.geschaeftsfelder.frage8</source>
+        <target>Ihre Umsatzprognose fürs Jahr 2015</target>
+        <jms:reference-file line="200">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="24b0ac3c8b208d7dd8f602fcc5d06b8499aa94ae" resname="frontend.vsv.geschaeftsfelder.frage8.label.ergebniserwartung">
+        <source>frontend.vsv.geschaeftsfelder.frage8.label.ergebniserwartung</source>
+        <target>Ergebniserwartung 2015 ist...</target>
+        <jms:reference-file line="215">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0fbcd3a960a77f53a4f224fd8ec358f02660d83b" resname="frontend.vsv.geschaeftsfelder.frage8.label.erwartete">
+        <source>frontend.vsv.geschaeftsfelder.frage8.label.erwartete</source>
+        <target>Erwartete Debitorenausfälle sind...</target>
+        <jms:reference-file line="221">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e5fc0fd0bd60e64bd97dde612bba65dbb8aebd16" resname="frontend.vsv.geschaeftsfelder.frage8.label.gleich">
+        <source>frontend.vsv.geschaeftsfelder.frage8.label.gleich</source>
+        <target>gleich bleibend</target>
+        <jms:reference-file line="205">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="683f7ffc4cbe820d52285d328412435d4101eae7" resname="frontend.vsv.geschaeftsfelder.frage8.label.sinkend">
+        <source>frontend.vsv.geschaeftsfelder.frage8.label.sinkend</source>
+        <target>sinkend</target>
+        <jms:reference-file line="206">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="47b329fe0d4cc8ad9b38afdd3c963f49ca44a8ae" resname="frontend.vsv.geschaeftsfelder.frage8.label.steigend">
+        <source>frontend.vsv.geschaeftsfelder.frage8.label.steigend</source>
+        <target>steigend</target>
+        <jms:reference-file line="204">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="09d5bde427cdac80710938b3159e7ef24f35b372" resname="frontend.vsv.geschaeftsfelder.frage8.label.umsatzerwartung">
+        <source>frontend.vsv.geschaeftsfelder.frage8.label.umsatzerwartung</source>
+        <target>Umsatzerwartung für 2015 ist...</target>
+        <jms:reference-file line="209">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="915bdcd044a5e38a2d5e8b6c8a5b004dd5ea707f" resname="frontend.vsv.geschaeftsfelder.frage9">
+        <source>frontend.vsv.geschaeftsfelder.frage9</source>
+        <target>Wie viel Umsatz in Prozent (%) haben Sie durch Preisreduktionen aufgrund der Währungsfreigabe schätzungsweise verloren?</target>
+        <jms:reference-file line="228">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4538d20cf9104a010bbb26309dd3022788049a7b" resname="frontend.vsv.geschaeftsfelder.frage9.label.umsatzminderung">
+        <source>frontend.vsv.geschaeftsfelder.frage9.label.umsatzminderung</source>
+        <target>Umsatzminderung in Prozent (%)</target>
+        <jms:reference-file line="235">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4b116361767c39fd008109f42a03a55bf0e396f9" resname="frontend.vsv.geschaeftsfelder.geschaeftsfelder">
+        <source>frontend.vsv.geschaeftsfelder.geschaeftsfelder</source>
+        <target>Geschäftsfelder</target>
+        <jms:reference-file line="32">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3f0d906ad1c1da34e1067811c3b54a650e03b934" resname="frontend.vsv.geschaeftsfelder.speichern">
+        <source>frontend.vsv.geschaeftsfelder.speichern</source>
+        <target>Speichern</target>
+        <jms:reference-file line="267">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f1f45b433d29822487c0e17df37b7a0611159112" resname="frontend.vsv.geschaeftsfelder.titel">
+        <source>frontend.vsv.geschaeftsfelder.titel</source>
+        <target>Geschäftsfelder / Umsätze</target>
+        <jms:reference-file line="40">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c0c3b83b0af62dd156f021b9b1d6c1ef87529cb1" resname="frontend.vsv.geschaeftsfelder.versand-onlinhandel">
+        <source>frontend.vsv.geschaeftsfelder.versand-onlinhandel</source>
+        <target><![CDATA[Versand- & Onlinehandel]]></target>
+        <jms:reference-file line="26">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2cb32d29ecda0a53e4d8ab4a4cc4028cc96d3f4d" resname="frontend.vsv.geschaeftsfelder.zurueck">
+        <source>frontend.vsv.geschaeftsfelder.zurueck</source>
+        <target>Zurück</target>
+        <jms:reference-file line="266">templates/vsv/vsv-umfrage-2.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="58055b734d566cccd732122f860256d9208b2ead" resname="frontend.vsv.versand-onlinehandel.firmeninfos">
+        <source>frontend.vsv.versand-onlinehandel.firmeninfos</source>
+        <target>Firmeninfos</target>
+        <jms:reference-file line="20">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ee00cb7134b5d7e5107683ee85362e5c2d195099" resname="frontend.vsv.versand-onlinehandel.frage1">
+        <source>frontend.vsv.versand-onlinehandel.frage1</source>
+        <target>Wie viele Bestellungen haben Sie erhalten?</target>
+        <jms:reference-file line="44">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="693dbafc1686fe6e466579714ad45de6cda59ee0" resname="frontend.vsv.versand-onlinehandel.frage1.label.andere">
+        <source>frontend.vsv.versand-onlinehandel.frage1.label.andere</source>
+        <target>Andere (z.B. Bestellkarte /  Fax)</target>
+        <jms:reference-file line="67">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="746b1437b5131051f97a54dba42cc616902f419e" resname="frontend.vsv.versand-onlinehandel.frage1.label.email">
+        <source>frontend.vsv.versand-onlinehandel.frage1.label.email</source>
+        <target>E-mail</target>
+        <jms:reference-file line="62">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1d6511059b7019aa575a5fb647e7c4a4c74ac59f" resname="frontend.vsv.versand-onlinehandel.frage1.label.online">
+        <source>frontend.vsv.versand-onlinehandel.frage1.label.online</source>
+        <target>Online</target>
+        <jms:reference-file line="52">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5dace9137feb6de5d62333ef767d7f8a27c6563a" resname="frontend.vsv.versand-onlinehandel.frage1.label.telefon">
+        <source>frontend.vsv.versand-onlinehandel.frage1.label.telefon</source>
+        <target>Telefon</target>
+        <jms:reference-file line="57">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fee8b4c90bad467996abf7cab0eb1b87a6cc613c" resname="frontend.vsv.versand-onlinehandel.frage1.label.total">
+        <source>frontend.vsv.versand-onlinehandel.frage1.label.total</source>
+        <target>Totale Bestellungen</target>
+        <jms:reference-file line="72">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0da32ac5d67dce635eea16e6e22c80201f95851f" resname="frontend.vsv.versand-onlinehandel.frage1b">
+        <source>frontend.vsv.versand-onlinehandel.frage1b</source>
+        <target>Wie hoch ist der Mobile-Anteil an der Anzahl Online-Bestellungen in Prozent (%)?</target>
+        <jms:reference-file line="79">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0730e09030e73fb73495cd553f0e6c2842b9baca" resname="frontend.vsv.versand-onlinehandel.frage1b.label.mobile-bestellungen">
+        <source>frontend.vsv.versand-onlinehandel.frage1b.label.mobile-bestellungen</source>
+        <target>Mobile-Bestellungen (Smartphones, Tablets)</target>
+        <jms:reference-file line="87">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dc526f098f469e33318e4ee6e37b6f5f4f9433e0" resname="frontend.vsv.versand-onlinehandel.frage2">
+        <source>frontend.vsv.versand-onlinehandel.frage2</source>
+        <target>Wie viele Pakete wurden versandt?</target>
+        <jms:reference-file line="93">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="61aafbb1d35ac6b95f99824bc01162026b9244c9" resname="frontend.vsv.versand-onlinehandel.frage2.total-bestellungen">
+        <source>frontend.vsv.versand-onlinehandel.frage2.total-bestellungen</source>
+        <target>Total Bestellungen</target>
+        <jms:reference-file line="101">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bb2e2f42ac58dbc364b759811bebfa76746589bb" resname="frontend.vsv.versand-onlinehandel.frage3">
+        <source>frontend.vsv.versand-onlinehandel.frage3</source>
+        <target>Anzahl Retourenpakete?</target>
+        <jms:reference-file line="107">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a505c37060c54d1f80312db89071aa89e186d2cb" resname="frontend.vsv.versand-onlinehandel.frage3.label.anzahl">
+        <source>frontend.vsv.versand-onlinehandel.frage3.label.anzahl</source>
+        <target>Anzahl retournierte Pakete (absolute Zahlen)</target>
+        <jms:reference-file line="115">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6db6fdbfdd2b21ef000721ff12c3a2fb65084122" resname="frontend.vsv.versand-onlinehandel.frage3.label.retourenquote">
+        <source>frontend.vsv.versand-onlinehandel.frage3.label.retourenquote</source>
+        <target>Retourenquote in Prozent (%)</target>
+        <jms:reference-file line="120">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3d9ce84f462fad924dcfaf1be525969c267bf202" resname="frontend.vsv.versand-onlinehandel.frage4">
+        <source>frontend.vsv.versand-onlinehandel.frage4</source>
+        <target>Wie haben Ihr Kunden ihre Rechnung beglichen?</target>
+        <jms:reference-file line="126">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9e9d2027bfd1d1da5d81be55139b2f565130f02f" resname="frontend.vsv.versand-onlinehandel.frage4.label.debitkarte">
+        <source>frontend.vsv.versand-onlinehandel.frage4.label.debitkarte</source>
+        <target>Debitkarte (Postfinance, ec-maestro, etc.)</target>
+        <jms:reference-file line="144">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f62e604f6c97498bd68aa13ca5bef560af09aecf" resname="frontend.vsv.versand-onlinehandel.frage4.label.kreditkarte">
+        <source>frontend.vsv.versand-onlinehandel.frage4.label.kreditkarte</source>
+        <target>Kreditkarte (inkl. Paypal)</target>
+        <jms:reference-file line="139">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="78e7caf4295932e3e067c31a5a925ba4d7c2a4d2" resname="frontend.vsv.versand-onlinehandel.frage4.label.nachname">
+        <source>frontend.vsv.versand-onlinehandel.frage4.label.nachname</source>
+        <target>Nachname / Bar / Andere</target>
+        <jms:reference-file line="154">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6a90157714f4574d886b75947cf9697c404a019e" resname="frontend.vsv.versand-onlinehandel.frage4.label.rechnung">
+        <source>frontend.vsv.versand-onlinehandel.frage4.label.rechnung</source>
+        <target>Rechnung (zahlbar nach Lieferung)</target>
+        <jms:reference-file line="134">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a9a49ec2e40c8bf522883956e51b7011586f78a8" resname="frontend.vsv.versand-onlinehandel.frage4.label.total">
+        <source>frontend.vsv.versand-onlinehandel.frage4.label.total</source>
+        <target>Total</target>
+        <jms:reference-file line="159">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bb140f6741245064cab08b1c778e85f851fd2be9" resname="frontend.vsv.versand-onlinehandel.frage4.label.vorauszahlung">
+        <source>frontend.vsv.versand-onlinehandel.frage4.label.vorauszahlung</source>
+        <target>Vorauszahlung</target>
+        <jms:reference-file line="149">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="559e6098a751ff575a093941b45dc579b8eb92a4" resname="frontend.vsv.versand-onlinehandel.geschaeftsfelder">
+        <source>frontend.vsv.versand-onlinehandel.geschaeftsfelder</source>
+        <target><![CDATA[Geschäftsfelder & Umsätze]]></target>
+        <jms:reference-file line="32">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2ddf3e50b7b88f81b233f48bc1a1483ea9333487" resname="frontend.vsv.versand-onlinehandel.speichern">
+        <source>frontend.vsv.versand-onlinehandel.speichern</source>
+        <target>Speichern</target>
+        <jms:reference-file line="170">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="202a2dea031021d35b30b46516c09e2cdd66d6ff" resname="frontend.vsv.versand-onlinehandel.titel">
+        <source>frontend.vsv.versand-onlinehandel.titel</source>
+        <target><![CDATA[Versand- & Onlinehandel]]></target>
+        <jms:reference-file line="41">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f86a8ea57f10e2cd61606ec681dfe4c2363e6be2" resname="frontend.vsv.versand-onlinehandel.versand-onlinhandel">
+        <source>frontend.vsv.versand-onlinehandel.versand-onlinhandel</source>
+        <target><![CDATA[Versand- & Onlinehandel]]></target>
+        <jms:reference-file line="26">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1e1b8aa122a1b5e9165346f96649df02cd1c7678" resname="frontend.vsv.versand-onlinehandel.vorwaerts">
+        <source>frontend.vsv.versand-onlinehandel.vorwaerts</source>
+        <target>Vorwärts</target>
+        <jms:reference-file line="171">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8670b31a90fccc16dfa75e7da83bad05346d6cf1" resname="frontend.vsv.versand-onlinehandel.zurück">
+        <source>frontend.vsv.versand-onlinehandel.zurück</source>
+        <target>Zurück</target>
+        <jms:reference-file line="169">templates/vsv/vsv-umfrage-1.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3ab2620195d27d0bc53d5803c2496dd2306de5b7" resname="gleich bleibend">
+        <source>gleich bleibend</source>
+        <target>gleich bleibend</target>
+        <jms:reference-file line="236">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="241">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="246">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="728f0dfdafb63d6e0aa5465859991f95ced64f76" resname="inaktiv">
+        <source>inaktiv</source>
+        <target>inaktiv</target>
+        <jms:reference-file line="50">AppBundle/Form/PersonenType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="62d5564c383b885ff0de25abd24a41080499970b" resname="security.login.password">
+        <source>security.login.password</source>
+        <target>Passwort</target>
+        <jms:reference-file line="34">views/Security/login.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d074ed9a0eb75b7f17ef2274c21d4c3d12d91634" resname="security.login.remember_me">
+        <source>security.login.remember_me</source>
+        <target state="new">security.login.remember_me</target>
+        <jms:reference-file line="43">views/Security/login.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="79c180ac5e987e195d1dfeda857a114ed692d07f" resname="security.login.submit">
+        <source>security.login.submit</source>
+        <target state="new">security.login.submit</target>
+        <jms:reference-file line="56">views/Security/login.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="64e1b2aaf6156a7e34a13fbc38801e89478efff8" resname="security.login.username">
+        <source>security.login.username</source>
+        <target state="new">security.login.username</target>
+        <jms:reference-file line="25">views/Security/login.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e7cfe9f5f479219922700e86243bc4ac58c696e5" resname="sinkend">
+        <source>sinkend</source>
+        <target state="new">sinkend</target>
+        <jms:reference-file line="236">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="241">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="246">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="faa3bd107afc2c2f3ab922d7ad9c0c5ac64bb370" resname="steigend">
+        <source>steigend</source>
+        <target state="new">steigend</target>
+        <jms:reference-file line="236">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="241">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="246">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3f8517f6d2f9ca0955553aa020f72b0aaade803c" resname="Übrige">
+        <source>Übrige</source>
+        <target state="new">Übrige</target>
+        <jms:reference-file line="164">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+        <jms:reference-file line="211">AppBundle/Form/VsvDetailsType.php</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

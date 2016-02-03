@@ -14,7 +14,7 @@ class ShopController extends Controller
     public function indexAction(Request $request)
     {
 
-        return $this->render('default/Shop/index.html.twig', [
+        return $this->render('Frontend/Shop/index.html.twig', [
 
         ]);
     }
